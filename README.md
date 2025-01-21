@@ -1,0 +1,1 @@
+Please see the README for each game to learn how to get started.
