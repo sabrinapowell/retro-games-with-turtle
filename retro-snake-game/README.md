@@ -27,9 +27,9 @@ The goal is to eat the food that appears on the screen to grow your snake and in
 
 ## 📂 File Overview
 - **`main.py`**: Main game file containing the game logic and controls.
-- **`food.py`**: Main game file containing the game logic and controls.
-- **`snake.py`**: Main game file containing the game logic and controls.
-- **`score_board.py`**: Main game file containing the game logic and controls.
+- **`food.py`**: Food game file containing the logic and controls for the snake food.
+- **`snake.py`**: Snake game file containing the game logic and controls for the snake.
+- **`score_board.py`**: Scoreboard game file containing the game logic and controls for the scoreboard and other game text.
 - **`snake_high_score.txt`**: Stores the highest score achieved during gameplay.
 
 ---
@@ -52,5 +52,7 @@ The goal is to eat the food that appears on the screen to grow your snake and in
 ---
 
 ## 🖼️ Game Preview
+**Gameplay**: https://player.vimeo.com/video/1049073859?h=b5bec42703
+**Project Notes**: https://sabrinapowell-projects.com/projects/retro-snake-game
 
 Enjoy the game, and don’t forget to aim for the high score! 🐍
